@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Nul
 
-<!--
-**nolanhakim/nolanhakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate UI/UX designer and frontend developer who enjoys building intuitive and beautiful web experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 About Me
+
+I'm a UI/UX designer who turns ideas into user-centered digital products.
+
+Lately, I’ve been focused on:
+
+- Designing responsive, accessible UI
+- Prototyping user journeys and wireframes
+- Collaborating with dev teams using Figma & design systems
+- Improving design based on feedback and data
+
+I enjoy solving real problems through design, and continuously sharpening my creative & technical skills.
+
+---
+
+## 🌐 Find Me Around the Web
+
+- LinkedIn: [linkedin.com/in/namamu](https://linkedin.com/in/namamu)
+- Dribbble: [dribbble.com/namamu](https://dribbble.com/namamu)
+- Behance: [behance.net/namamu](https://behance.net/namamu)
