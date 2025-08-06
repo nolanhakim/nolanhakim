@@ -53,12 +53,15 @@ I enjoy solving real problems through design, and continuously sharpening my cre
 </p>
 
 
-> ℹ️ *Stats di atas otomatis update berdasarkan aktivitas GitHub kamu*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&theme=tokyonight&hide=stars&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernamekamu&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🧾 Footer
+## 🙏 Footer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+GitHub!;Feel+free+to+connect+with+me+👋&font=Fira+Code&center=true&width=500&height=45&color=00FFFF&vCenter=true&size=22" />
-</p>
+> *"Thank you for visiting my GitHub. Let’s create something great together!"*
