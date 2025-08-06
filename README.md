@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nul
+# Hi there 👋, I'm Nolan Hakim
 
 A passionate UI/UX designer and frontend developer who enjoys building intuitive and beautiful web experiences.
 
@@ -21,13 +21,13 @@ I enjoy solving real problems through design, and continuously sharpening my cre
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.instagram.com/usernamekamu/" target="_blank">
+  <a href="https://www.instagram.com/catranolanhkm/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/usernamekamu/" target="_blank">
+  <a href="https://www.linkedin.com/in/catraliya-nolan-hakim-782aaa33b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emailkamu@gmail.com" target="_blank">
+  <a href="mailto:nolanhakimm10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
