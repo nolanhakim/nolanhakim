@@ -51,3 +51,14 @@ I enjoy solving real problems through design, and continuously sharpening my cre
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
+
+
+> ℹ️ *Stats di atas otomatis update berdasarkan aktivitas GitHub kamu*
+
+---
+
+## 🧾 Footer
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+GitHub!;Feel+free+to+connect+with+me+👋&font=Fira+Code&center=true&width=500&height=45&color=00FFFF&vCenter=true&size=22" />
+</p>
