@@ -56,8 +56,8 @@ I enjoy solving real problems through design, and continuously sharpening my cre
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&theme=tokyonight&hide=stars&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernamekamu&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nolanhakim&show_icons=true&theme=tokyonight&hide=stars&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolanhakim&layout=compact&theme=tokyonight" />
 </p>
 
 ---
