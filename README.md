@@ -62,6 +62,5 @@ I enjoy solving real problems through design, and continuously sharpening my cre
 
 ---
 
-## 🙏 Footer
 
 > *"Thank you for visiting my GitHub. Let’s create something great together!"*
